@@ -23,7 +23,7 @@ module Firefly
 
   # Get the current environment
   def self.environment
-    @environment ||= ENV['RACK_ENV'] || "development"
+    @environment ||= ENV['RACK_ENV'] || "production"
   end
 end
 
