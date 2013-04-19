@@ -71,7 +71,7 @@
     });
 - else
 
-  %img(src="/images/logo_wide2.png")
+  %img(src="/images/logo_wide.png")
 
   %h1 Please enter your API key
   
